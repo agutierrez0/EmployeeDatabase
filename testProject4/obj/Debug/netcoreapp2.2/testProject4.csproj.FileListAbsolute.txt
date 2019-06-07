@@ -1,0 +1,14 @@
+C:\Users\AngelGutierrez\Desktop\Code Exercises\testProject4\testProject4\testProject4\bin\Debug\netcoreapp2.2\testProject4.deps.json
+C:\Users\AngelGutierrez\Desktop\Code Exercises\testProject4\testProject4\testProject4\bin\Debug\netcoreapp2.2\testProject4.runtimeconfig.json
+C:\Users\AngelGutierrez\Desktop\Code Exercises\testProject4\testProject4\testProject4\bin\Debug\netcoreapp2.2\testProject4.runtimeconfig.dev.json
+C:\Users\AngelGutierrez\Desktop\Code Exercises\testProject4\testProject4\testProject4\bin\Debug\netcoreapp2.2\testProject4.dll
+C:\Users\AngelGutierrez\Desktop\Code Exercises\testProject4\testProject4\testProject4\bin\Debug\netcoreapp2.2\testProject4.pdb
+C:\Users\AngelGutierrez\Desktop\Code Exercises\testProject4\testProject4\testProject4\obj\Debug\netcoreapp2.2\testProject4.csprojAssemblyReference.cache
+C:\Users\AngelGutierrez\Desktop\Code Exercises\testProject4\testProject4\testProject4\obj\Debug\netcoreapp2.2\testProject4.csproj.CoreCompileInputs.cache
+C:\Users\AngelGutierrez\Desktop\Code Exercises\testProject4\testProject4\testProject4\obj\Debug\netcoreapp2.2\testProject4.RazorAssemblyInfo.cache
+C:\Users\AngelGutierrez\Desktop\Code Exercises\testProject4\testProject4\testProject4\obj\Debug\netcoreapp2.2\testProject4.RazorAssemblyInfo.cs
+C:\Users\AngelGutierrez\Desktop\Code Exercises\testProject4\testProject4\testProject4\obj\Debug\netcoreapp2.2\testProject4.AssemblyInfoInputs.cache
+C:\Users\AngelGutierrez\Desktop\Code Exercises\testProject4\testProject4\testProject4\obj\Debug\netcoreapp2.2\testProject4.AssemblyInfo.cs
+C:\Users\AngelGutierrez\Desktop\Code Exercises\testProject4\testProject4\testProject4\obj\Debug\netcoreapp2.2\testProject4.RazorTargetAssemblyInfo.cache
+C:\Users\AngelGutierrez\Desktop\Code Exercises\testProject4\testProject4\testProject4\obj\Debug\netcoreapp2.2\testProject4.dll
+C:\Users\AngelGutierrez\Desktop\Code Exercises\testProject4\testProject4\testProject4\obj\Debug\netcoreapp2.2\testProject4.pdb
